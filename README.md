@@ -1,10 +1,3 @@
 # libraryJar
-```
-This is a small Java application on that adds two numbers, provided by a user as inputs, and then 
-compiles it into a jar file. Packages it as a runnable JAR file with a specified Main-Class in the 
-manifest.
-```
-## Run the jar file as follows :
-```bash
-java -jar filename
-```
+### This is a Java application called MathLibrary, which contains functions for adding, subtracting, division and multiplication.
+The functions creaed are used in [libraryJarTwo](https://github.com/BenroyKirwa/libraryJarTwo.git)
